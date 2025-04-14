@@ -1,0 +1,9 @@
+{
+  "title": "Wielowątkowość - podstawy",
+  "pages": [
+    { "id": "intro", "title": "Wprowadzenie do wielowątkowości", "file": "intro.txt" },
+    { "id": "lifecycle", "title": "Cykl życia wątku", "file": "lifecycle.txt" },
+    { "id": "sync", "title": "Podstawy synchronizacji", "file": "sync.txt" },
+    { "id": "communication", "title": "Komunikacja między wątkami", "file": "communication.txt" }
+  ]
+}
