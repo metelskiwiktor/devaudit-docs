@@ -1,0 +1,21 @@
+{
+  "title": "Wielowątkowość - zaawansowane",
+  "type": "section",
+  "pages": [
+    {
+      "id": "deadlocks",
+      "title": "Zjawisko zakleszczenia (Deadlocks)",
+      "file": "deadlocks.md"
+    },
+    {
+      "id": "thread-pools",
+      "title": "Pule wątków i ExecutorService",
+      "file": "thread-pools.md"
+    },
+    {
+      "id": "concurrent-collections",
+      "title": "Kolekcje współbieżne w Javie",
+      "file": "concurrent-collections.md"
+    }
+  ]
+}
