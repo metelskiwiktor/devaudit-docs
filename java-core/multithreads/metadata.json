@@ -2,7 +2,7 @@
   "title": "Wielowątkowość",
   "type": "module",
   "sections": [
-    "/fundamental",
-    "/advanced"
+    "fundamental",
+    "advanced"
   ]
 }
