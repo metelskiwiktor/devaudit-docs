@@ -1,5 +1,3 @@
-**Wprowadzenie do wielowątkowości**
-
 Wielowątkowość to technika programowania, która pozwala na równoczesne wykonywanie wielu zadań w obrębie jednego programu. Dzięki niej aplikacje mogą działać szybciej, bardziej responsywnie i lepiej wykorzystywać zasoby procesora.
 
 **Zastosowania:**
